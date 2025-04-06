@@ -7,6 +7,7 @@ En el proceso de población de dimensiones, se crearon:
 - 10 registros para dimensión equipos.
 - 10 registros para dimensión técnicos.
 - 20 registros para dimensión fechas.
+
 ![image](https://github.com/user-attachments/assets/a7c2a6f2-25c7-4f75-b55f-edeee81501f3)
 
 ## Poblar fact table:
