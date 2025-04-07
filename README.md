@@ -35,6 +35,11 @@ Este modelo permite construir dashboards para analizar:
 
 
 ## Scripts SQL
+- Creación de tablas de modelo físico: DDL/creacion_tablas.sql
+- Población de modelo físico: DML/insercion_data.sql
+- Creación de tablas dse modelo dimensional: BI/creacion_tablas_bi.sql
+- Población de modelo dimensional: BI/poblar_modelo_bi.sql
+
 modelo_relacional.sql: Script para crear el modelo OLTP.
 modelo_dimensional.sql: Script para crear el modelo OLAP.
 
