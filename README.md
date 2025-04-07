@@ -19,6 +19,9 @@ Facilitar la gestión y análisis de mantenimientos realizados a equipos industr
 * Uso de repuestos (id, id_mantenimiento, id_repuesto, cantidad_usada)
 * Proveedores de repuestos (id, nombre, contacto, tiempo_entrega_estimado, calidad)
 
+![image](https://github.com/user-attachments/assets/e7b6e26a-9c07-4e8f-a524-44189c20951a)
+
+
 ## Modelo dimensional
 Tabla hechos: fact_table_costos_mantenimientos
 Dimensiones: dim_equipos, dim_tecnicos, dim_fechas
@@ -27,6 +30,9 @@ Este modelo permite construir dashboards para analizar:
 - Costo total de mantenimiento por mes.
 - Uso de repuestos por técnico o equipo.
 - Productividad técnica y eficiencia operativa.
+
+![image](https://github.com/user-attachments/assets/3bb40e3b-e18e-4502-bfed-5f5efb5878cc)
+
 
 ## Scripts SQL
 modelo_relacional.sql: Script para crear el modelo OLTP.
