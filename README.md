@@ -1,4 +1,4 @@
-# Modelo de Mantenimiento de Equipos Industriales
+# Mantenimiento de Equipos Industriales
 
 Caso referente a Bases de Datos:
 Se requiere diseñar una base de datos para gestionar el mantenimiento de equipos industriales en una planta de producción. La base de datos debe almacenar información sobre los equipos, su historial de mantenimiento, órdenes de trabajo, técnicos responsables y repuestos utilizados.
