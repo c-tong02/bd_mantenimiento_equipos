@@ -4,3 +4,6 @@
 ## Vista previa del proyecto
 ![image](https://github.com/user-attachments/assets/777b6694-833f-4037-ac2d-6c838d9526db)
 
+## Vista de reporte en el servidor de informes
+![image](https://github.com/user-attachments/assets/c3e503ee-76c8-470d-8cbf-1353c5f3bcad)
+
