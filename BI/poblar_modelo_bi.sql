@@ -48,5 +48,3 @@ GROUP BY
 	t.costo_hora*DATEDIFF(hour, m.fecha_inicio, m.fecha_fin),
 	m.fecha_mantenimiento;
 
-select*
-from mantenimientos
