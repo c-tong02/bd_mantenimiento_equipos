@@ -19,7 +19,7 @@ Facilitar la gestión y análisis de mantenimientos realizados a equipos industr
 * Uso de repuestos (id, id_mantenimiento, id_repuesto, cantidad_usada)
 * Proveedores de repuestos (id, nombre, contacto, tiempo_entrega_estimado, calidad)
 
-![image](https://github.com/user-attachments/assets/e7b6e26a-9c07-4e8f-a524-44189c20951a)
+![image](https://github.com/user-attachments/assets/ffe6d341-c28f-436f-8ad5-3184090aea94)
 
 
 ## Modelo dimensional
@@ -31,7 +31,7 @@ Este modelo permite construir dashboards para analizar:
 - Uso de repuestos por técnico o equipo.
 - Productividad técnica y eficiencia operativa.
 
-![image](https://github.com/user-attachments/assets/3bb40e3b-e18e-4502-bfed-5f5efb5878cc)
+![image](https://github.com/user-attachments/assets/1440b703-c3e5-4a9a-a2da-c6340fc10d37)
 
 
 ## Scripts SQL
